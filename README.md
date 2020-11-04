@@ -1,2 +1,2 @@
 # First-test repository
-Test to create a new repository and share with KaHed.
+Test to create a new repository, create branches and share.
